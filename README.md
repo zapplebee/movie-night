@@ -1,9 +1,13 @@
 # movie-night
 
-## Next Up
-| Date | Movie |
-|---------|---------|
-| Tonight (2/2/2021), 7:30 CST | Groundhog Day |
-| 2/16/2021 | [Comment](https://github.com/zapplebee/movie-night/issues/1) | 
+## Next showing
+
+Tuesday 2/2/21
+
+## Details
+
+[See the project board for backlog and queue](https://github.com/zapplebee/movie-night/projects/1)
+
+Create a new issue for movie night suggestions.
 
 dm [@zapplebee](https://twitter.com/zapplebee) for a link and invite.
